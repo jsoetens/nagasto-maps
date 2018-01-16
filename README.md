@@ -1,5 +1,8 @@
 # Nagasto Maps
 
+## GitHub Pages
+https://jsoetens.github.io/nagasto-maps/
+
 ## Goal of the Project
 Responsive web app featuring the [Google Maps API](https://developers.google.com/maps/) and showing [Lidl stores in Luxembourg](https://www.lidl.lu/fr/index.htm).
 
